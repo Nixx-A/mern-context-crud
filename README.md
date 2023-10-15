@@ -2,17 +2,6 @@
 
 ![App Screenshot](./screenshot.png)
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Author](#author)
-
 ## Features
 
 - Create tasks with titles and descriptions.
