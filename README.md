@@ -1,5 +1,40 @@
-# mern-context-crud
+# MERN Task Management App with Image Upload
 
-App where you can upload your tasks with images 
+![App Screenshot](./screenshot.png)
 
-app created with Mern stack
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Author](#author)
+
+## Features
+
+- Create tasks with titles and descriptions.
+- Upload and attach images to tasks.
+- Edit and update task information.
+- Delete tasks.
+- List all tasks with their associated images.
+
+## Technologies Used
+
+- **MongoDB:** Used as the database to store task information and image metadata.
+- **Express.js:** Provides the backend RESTful API services.
+- **React:** The frontend user interface is built using React.
+- **Node.js:** Used for the server-side logic.
+- **Tailwind CSS:** Styling is done using the Tailwind CSS framework.
+
+## Getting Started
+
+These instructions will help you set up and run the project on your local machine for development purposes. Please note that you need to have Node.js, npm, and MongoDB installed.
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/mern-context-crud.git
+   cd mern-context-crud
