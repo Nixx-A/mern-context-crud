@@ -1,6 +1,7 @@
 # MERN Task Management App with Image Upload
 
-![App Screenshot](./screenshot.png)
+
+![App screenshot](https://github.com/Nixx-A/mern-context-crud/assets/71731922/6f45e101-1464-45a0-820c-bc5c276fccd8)
 
 ## Features
 
