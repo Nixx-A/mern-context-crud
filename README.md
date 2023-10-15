@@ -1,7 +1,8 @@
 # MERN Task Management App with Image Upload
 
 
-![App screenshot](https://github.com/Nixx-A/mern-context-crud/assets/71731922/6f45e101-1464-45a0-820c-bc5c276fccd8)
+![Macbook Pro-1697395203541](https://github.com/Nixx-A/mern-context-crud/assets/71731922/a2f6a734-de90-47a9-aded-e2f2300b7f20)
+
 
 ## Features
 
