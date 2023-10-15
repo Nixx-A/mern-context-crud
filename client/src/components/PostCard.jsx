@@ -63,7 +63,7 @@ export function PostCard({ post }) {
         </div>
         <p className="text-gray-400">{post.description}</p>
       </div>
-      {post.image && <img src={post.image.url} alt={post.title} />}
+      {post.image && <img src={post.image.url} className="w-full h-[450px]" alt={post.title} />}
     </div>
   );
 }
